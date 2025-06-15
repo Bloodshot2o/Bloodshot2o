@@ -1,4 +1,19 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">Hi 👋, I'm swagatam jana</h1>
+<h3 align="center">A passionate Targeting Full stack Developer and Cybersecurity with an organization of high repute with a scope of Improving knowledge and further career growth.</h3>
+
+- 🌱 I’m currently learning **Red Hat,Networking**
+
+- Some of my projects are available at [https://github.com/Bloodshot2o](https://github.com/Bloodshot2o)
+
+- 📫 How to reach me **Swagatamjana99@gmail.com**
+
+- 📄 Know about my experiences [https://pdf.ac/4evzc7](https://pdf.ac/4evzc7)
+
+- ⚡ Fun fact **I can play guiter**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
