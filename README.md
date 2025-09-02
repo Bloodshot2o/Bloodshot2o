@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **Swagatamjana99@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/4evzc7](https://pdf.ac/4evzc7)
 
 - ⚡ Fun fact **I can play guiter**
 
@@ -24,7 +23,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/190/190355.gif"  />
+
 
 
 <div align="left">
